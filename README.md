@@ -25,9 +25,8 @@
 
 	
 		var params = {
-		                                                                                                 	type:"local",
-		                                                  	strUrl: "IMG_0377.MOV"
-	                                                  
+		                type:"local",
+		              	strUrl: "IMG_0377.MOV"
 	          };
 	       
 type:要播放视频是本地（local）还是网络视频(network)。
